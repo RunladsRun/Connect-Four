@@ -1,0 +1,22 @@
+.root{
+    	-fx-background-image: url("mainServer.jpeg");
+    	-fx-background-size: 700 500;
+	-fx-border-color: AQUAMARINE;
+	-fx-border-width: 20;
+}
+
+#vbox{
+	-fx-border-color: AQUA;
+	-fx-background-color: ALICEBLUE;
+	-fx-border-width: 5;
+	-fx-background-radius: 18 18 18 18;
+	-fx-border-radius: 18 18 18 18;
+}
+
+.button {
+	-fx-background-color: AQUAMARINE;
+	-fx-text-fill: CORNFLOWERBLUE;
+	-fx-font-size: 15;
+}
+
+
